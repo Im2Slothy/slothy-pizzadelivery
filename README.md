@@ -33,7 +33,7 @@ Start your server and the pizza delivery mission should be available at the coor
 
 ## Usage
 
-[![Watch the video](https://img.youtube.com/vi/jrWHAdN83g8/maxresdefault.jpg)](https://www.youtube.com/watch?v=jrWHAdN83g8)
+[![Watch the video](https://img.youtube.com/vi/D-97BziOOrs/0.jpg)](https://www.youtube.com/watch?v=D-97BziOOrs)
 
 ## License
 
